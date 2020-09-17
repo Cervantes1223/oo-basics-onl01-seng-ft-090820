@@ -18,6 +18,10 @@ class Book
   def size =(num)
     @size = num
   end
+  
+  def size 
+    @size
+  end
  
   def material=(material)
     @material
