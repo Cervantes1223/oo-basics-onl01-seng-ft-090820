@@ -19,16 +19,16 @@ class Book
     @size = num
   end
  
-  def 
-    @page_count
+  def material=(material)
+    @material
   end
  
-  def genre=(genre)
-    @genre = genre
+  def condition=(condition)
+    @condition = condition
   end
  
-  def genre
-    @genre
+  def condition
+    @condition
   end
  
   def turn_page
