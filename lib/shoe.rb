@@ -2,8 +2,7 @@ class Book
   attr_accessor :color, :size, :material, :condition
   attr_reader :brand
  
-  def initialize(title)
-    @title = title
+  def initialize(title    @title = title
   end
  
   def turn_page
