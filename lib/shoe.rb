@@ -32,7 +32,7 @@ class Book
   end
  
   def cobble
-    puts "Flipping the page...wow, you read fast!"
+    puts 
   end
  
 end
