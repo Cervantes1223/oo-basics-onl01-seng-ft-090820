@@ -6,6 +6,7 @@ class Book
     @brand = brand 
   end
  
-  
+  def cobble 
+    puts 
  
 end
