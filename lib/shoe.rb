@@ -15,8 +15,8 @@ class Book
     @color
   end
  
-  def page_count=(num)
-    @page_count = num
+  def size =(num)
+    @size = num
   end
  
   def page_count
